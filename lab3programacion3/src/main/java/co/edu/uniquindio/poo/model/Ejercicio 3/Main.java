@@ -1,4 +1,4 @@
-package co.edu.uniquindio.poo.model;
+package co.edu.uniquindio.poo.model.Ejercicio3;
 import java.util.Random;
 
 public class Main {

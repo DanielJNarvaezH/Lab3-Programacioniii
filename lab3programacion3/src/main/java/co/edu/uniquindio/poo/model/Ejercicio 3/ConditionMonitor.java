@@ -1,4 +1,4 @@
-package co.edu.uniquindio.poo.model;
+package co.edu.uniquindio.poo.model.Ejercicio3;
 
 public class ConditionMonitor {
     
