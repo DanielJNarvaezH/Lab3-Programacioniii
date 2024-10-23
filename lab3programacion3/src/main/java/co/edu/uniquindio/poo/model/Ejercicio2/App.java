@@ -1,4 +1,4 @@
-package co.edu.uniquindio.poo.model.Ejercicio1;
+package co.edu.uniquindio.poo.model.Ejercicio2;
 
 public class App {
     public static void main(String[] args) {
